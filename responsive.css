@@ -1,0 +1,307 @@
+@media screen and (max-width: 768px) {
+    .lorem{
+        background: var(--bs-jc);
+        height: 75%;
+        width: 120%;
+        position: relative;
+        left: -38px;
+    } 
+    
+    
+
+
+    .img-lorem{
+        width:120% ;
+        height: 250px; 
+        position: relative;
+        left: -43px; 
+      }
+      /* ------------------------about---------------- */
+      .img-fiva img{
+        width: 110%;
+        height: 300px;
+        margin-left: -40px;
+    }
+    .text-about{
+        position: relative;
+        left: -50px;
+        top: 50px;
+        width: 112%;
+    }
+    footer{
+        margin-top: 55px;
+    }
+
+
+    /* --------products------- */
+    
+    .text-products{
+    position: relative;
+    left: -26px;
+    bottom: 65px;
+    width: 600%;
+    }
+    .mere-products img{
+       width: 1260%;
+       position: relative;
+       top: 84px;
+       left: -88px;
+   
+    }
+    
+    .lorem-products{
+        position: relative;
+       top: 85px;
+       width: 93%;
+       margin-left: 51px;
+    }
+
+
+
+    .text-products-2{
+        width: 1545%;
+        height: 150px;
+        padding-top: 35px;
+        padding-left: 15px;
+        position: relative;
+        left: 10px;
+        bottom: 35px;
+    }
+    .img-products-2 img{
+        margin-left: -390px;
+        margin-top: 32px;
+        width: 1815%;
+    }
+    .lorem-products-2{
+        width: 95%;
+        height: 100%;  
+        position: relative;
+        left: 10px;
+        top: 83px; 
+    }
+/* ---------------------store------------------- */
+.store{
+    margin-left: 70px;
+    width:67% ;
+  }
+.mere-jr{
+    gap: 310px;
+    margin-left: 0px;
+ 
+}
+.mere-jr-2{
+    gap: 215px;
+}
+.mere-jr-3{
+    gap: 215px;
+}
+.mere-jr-4{
+    gap: 190px;
+}
+.mere-jr-5{
+    gap: 210px;
+}
+.mere-jr-6{
+    gap: 228px;
+}
+.mere-jr-7{
+    gap: 210px;
+}
+  .jr{
+    gap: 190px;
+    margin-left: -130px;
+}
+hr{
+    width: 90%;
+    margin-left: 19px
+}
+
+
+.text-about-2{
+    position: relative;
+    left: -40px;
+    top: 30px;
+    height: 100%;
+    width: 110%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 567px) {
+    .navbar{
+        width: 135%;
+
+    }
+    h2{
+        position: relative;
+        left: 75px;
+        font-size: 40px;
+    }
+    h1{
+        font-size: 40px;
+        position: relative;
+        left: 75px;
+    }
+    footer{
+        width: 135%;
+    }
+
+
+    .lorem{
+     padding-left: 6px;
+    }
+
+   
+    /* --------------home--------------- */
+    #mere-home{
+        position: relative;
+        left: 60px;
+    }
+    #sec2{
+        width: 108%;
+        position: relative;
+        left: -20px;
+    }
+
+
+
+    /* -------------------------------about-------------------- */
+    #mere-about{
+        position: relative;
+        left: 40px;
+    }
+  
+    .img-fiva img{
+        
+        margin-left: 3px;
+    }
+
+    .text-about{
+        position: relative;
+        left: 5px;
+        width: 109%;
+    }
+
+    /* --------products------------- */
+    #mere-products{
+        position: relative;
+        left: 70px;
+    }
+     
+    .text-products{
+        position: relative;
+        left: 18px;
+        bottom: 65px;
+        width: 606%;
+        }
+
+        .mere-products img{
+           width: 1020%;
+           position: relative;
+           top: 84px;
+           left: -12px;
+       
+        }
+        #mere-gl{
+            position: relative;
+            left: 10px;
+            width: 100%;
+        }
+        
+        .lorem-products{
+            position: relative;
+           top: 85px;
+           width: 90%;
+           height: 100%;
+           margin-left: 89px;
+        }
+         .text-products-2{      
+        position: relative;
+        left: 35px;
+        bottom: 35px;
+    }
+    .img-products-2 img{
+       position: relative;
+       left: 60px;
+       width: 1387%;
+    }
+    .lorem-products-2{
+        width: 95%;
+        height: 100%;  
+        position: relative;
+        left: 30px;
+        top: 85px; 
+    }
+
+
+    /* ---------------------store------------------- */
+    #mere-store{
+        position: relative;
+        left: 60px;
+    }
+.store{
+    margin-left: 70px;
+    width:67% ;
+  }
+.mere-jr{
+    gap: 170px;
+    margin-left: 0px;
+ 
+}
+.mere-jr-2{
+    gap: 70px;
+}
+.mere-jr-3{
+    gap: 70px;
+}
+.mere-jr-4{
+    gap: 45px;
+}
+.mere-jr-5{
+    gap: 65px;
+}
+.mere-jr-6{
+    gap: 85px;
+}
+.mere-jr-7{
+    gap: 65px;
+}
+  .jr{
+    gap: 190px;
+    margin-left: -130px;
+}
+hr{
+    width: 90%;
+    margin-left: 19px
+}
+
+.text-about-2{
+    position: relative;
+    left: -40px;
+    top: 30px;
+    height: 100%;
+    width: 120%;
+}
+
+/* ---------------------footer----------------- */
+    footer{
+        margin-top: 55px;
+    }
+}
